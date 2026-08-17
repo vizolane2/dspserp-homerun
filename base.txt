@@ -1,1 +1,1 @@
-dspserp.vizolane.com
+dspserp.vercel.app
